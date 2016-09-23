@@ -2,14 +2,8 @@
 
 .carousel 
 {
-	max-width: 500px;
-	height: 162px;
-
 	display: flex;
-	justify-content: flex-start;
-
-	border: 1px solid peru;
-	margin: 0 auto;
+	justify-content: space-around;
 
 	overflow: hidden;
 	position: relative;
@@ -17,6 +11,5 @@
 
 .carousel img 
 {
-	position: absolute;
-	border: 1px solid deeppink; 
+	position: relative;
 }
