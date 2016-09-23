@@ -2,7 +2,7 @@
 {
 	"use strict"
 
-	console.log("file 'index.js' work!!! ")
+	console.log("File 'carouselBrands.js' work!!! ")
 
 	var step = 0.5,					//Скорость анимации
 		currentLeft = [],			//Текущее положение картинок
